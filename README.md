@@ -10,6 +10,16 @@ Diabetes is one of the most prevalent chronic diseases in Bangladesh, and as a r
 
 ## Data
 
+Our training data is publically available [here](https://www.kaggle.com/c/aptos2019-blindness-detection/data). Our, run the following command:
+
+```
+kaggle competitions download -c aptos2019-blindness-detection
+```
+
+Once the data is downloaded, the file paths will be correct for the provided code.
+
+Our validation data is confidential and cannot be made public.
+
 ## Method
 
 ## Results

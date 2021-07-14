@@ -2,7 +2,7 @@
 
 This repository is the code and algorithm for the paper ["Convolutional Nets for Diabetic Retinopathy Screening in Bangladeshi Patients"](https://arxiv.org/) by Ayaan Haque, Ipsita Sutradhar, Mahziba Rahman, Mehedi Hasan, and Malabika Sarker.
 
-This paper is a validation study on the algorithm used for [Drishti](https://drishtiai.org/), an organization and application that provides free and accurate screening of Diabetic Retinopathy for rural areas of Bangladesh. The paper shows the effectiveness of our algorithm on performing stage-based classification of DR on Bangladeshi retinal scans collected from hospitals and field studies.
+This paper is a validation study on the algorithm used for [Drishti](https://drishtiai.org/docs.html), an organization and application that provides free and accurate screening of Diabetic Retinopathy for rural areas of Bangladesh. The paper shows the effectiveness of our algorithm on performing stage-based classification of DR on Bangladeshi retinal scans collected from hospitals and field studies.
 
 ## Abstract
 

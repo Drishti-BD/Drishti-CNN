@@ -22,6 +22,10 @@ Our validation data is confidential and cannot be made public.
 
 ## Method
 
+![](https://github.com/ayaanzhaque/Drishti-CNN/blob/main/images/model_fig.png?raw=true)
+
+We use a DenseNet-121 CNN as the base network. Importantly, we do not use a pre-trained version of the DenseNet-121 and rather train entirely with randomized parameters, as we found this increased the efficiency of training and deployment. The base DenseNet with the output layer removed is used as the primary architecture of our network. A 2D Global Average Pooling is then added after the DenseNet module, followed by a Dropout layer with a dropout rate of 0.5. For the output layer, a dense layer with 5 output nodes and a sigmoid activation function are used.
+
 ## Results
 
 ## Code

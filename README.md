@@ -28,6 +28,10 @@ We use a DenseNet-121 CNN as the base network. Importantly, we do not use a pre-
 
 ## Results
 
+A brief summary of our results are shown below. The table shows the overall Accuracy and metrics for our performance on the two validation sets of Bangladeshi Eyes.
+
+![](https://github.com/ayaanzhaque/Drishti-CNN/blob/main/images/results.png?raw=true)
+
 ## Code
 
 To train the CNN, use the [```train.py```](https://github.com/ayaanzhaque/Drishti-CNN/blob/main/train.py) file and run it with the following command.
@@ -39,3 +43,9 @@ python train.py
 All the data augmentation parameters and training hyperparameters are set. The DenseNet is not pre-trained, but in the DenseNet module, it can be modified to be pre-trained. For just the CNN code, use the [```CNN.py```](https://github.com/ayaanzhaque/Drishti-CNN/blob/main/CNN.py) file.
 
 ## Citation
+
+If you find this repo or the paper useful, please cite:
+
+```
+Add citation
+```

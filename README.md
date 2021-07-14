@@ -37,7 +37,7 @@ A brief summary of our results are shown below. The table shows the overall Accu
 To train the CNN, use the [```train.py```](https://github.com/ayaanzhaque/Drishti-CNN/blob/main/train.py) file and run it with the following command.
 
 ```
-python train.py
+$ python train.py
 ```
 
 All the data augmentation parameters and training hyperparameters are set. The DenseNet is not pre-trained, but in the DenseNet module, it can be modified to be pre-trained. For just the CNN code, use the [```CNN.py```](https://github.com/ayaanzhaque/Drishti-CNN/blob/main/CNN.py) file.

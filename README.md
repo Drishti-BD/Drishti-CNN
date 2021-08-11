@@ -49,5 +49,12 @@ All the data augmentation parameters and training hyperparameters are set. The D
 If you find this repo or the paper useful, please cite:
 
 ```
-Add citation
+@misc{haque2021convolutional,
+      title={Convolutional Nets for Diabetic Retinopathy Screening in Bangladeshi Patients}, 
+      author={Ayaan Haque and Ipsita Sutradhar and Mahziba Rahman and Mehedi Hasan and Malabika Sarker},
+      year={2021},
+      eprint={2108.04358},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
